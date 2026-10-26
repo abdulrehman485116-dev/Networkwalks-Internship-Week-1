@@ -1,4 +1,4 @@
-<img width="1270" height="659" alt="Kali-Linux" src="https://github.com/user-attachments/assets/b9d69c4e-79fd-423d-915f-cc9536b4d972" />🔐 Cybersecurity Lab Environment Setup
+                                            🔐 Cybersecurity Lab Environment Setup
 Building an isolated virtual lab for penetration testing and ethical hacking practice
 
 📌 Project Overview
