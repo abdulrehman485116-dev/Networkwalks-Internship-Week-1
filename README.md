@@ -32,17 +32,8 @@ Security-tool experimentation
 
 🏗️ Lab Architecture
 
-Windows Host  ──►  VirtualBox
-                        │
-                        ▼
-              NAT Network — NatNetwork
-                 (10.0.0.0/24)
-                        │
-           ┌────────────┴────────────┐
-           ▼                       ▼
-     Kali Linux              Future targets
-     10.0.0.2                10.0.0.3 – 10.0.0.99
-     
+<img width="300" height="173" alt="image" src="https://github.com/user-attachments/assets/540881c5-2cbe-484c-87ce-1a35b447f997" />
+
 Additional target machines can be added to the same virtual network in future projects.
 ⚙️ Lab Configuration
 🧩 Component
